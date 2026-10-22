@@ -868,8 +868,7 @@ body.modal-open {
         font-size: 9px;
         word-spacing: 3px;
     }
-}
-
+    
 .risva-tagline {
   font-family: Georgia, serif;
   font-style: italic;
@@ -886,3 +885,6 @@ body.modal-open {
   font-style: normal;
   letter-spacing: -0.05em;
 }
+
+}
+
