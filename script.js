@@ -85,7 +85,7 @@ const products = [
         color: "Faded blue",
         sizes: ["XS", "S", "M", "L"],
         tag: "Throwback",
-        image: "https://images.unsplash.com/photo-1506629905607-d9a6a1e1f0e7?auto=format&fit=crop&w=800&q=85",
+        image: "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=85",
         description: "Casual denim shorts with a relaxed, throwback feel."
     }
 ];
