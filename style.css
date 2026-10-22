@@ -868,8 +868,7 @@ body.modal-open {
         font-size: 9px;
         word-spacing: 3px;
     }
-}
-.hero-copy p:first-of-type {
+    .hero-copy p:first-of-type {
   font-family: Georgia, serif;
   font-style: italic;
   font-size: clamp(25px, 3.4vw, 36px);
@@ -878,4 +877,5 @@ body.modal-open {
   margin: 2px 0 19px;
   color: #514c44;
   max-width: 390px;
+}
 }
