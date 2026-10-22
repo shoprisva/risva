@@ -868,29 +868,23 @@ body.modal-open {
         font-size: 9px;
         word-spacing: 3px;
     }
-    .hero-copy p.tagline {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-style: italic;
-  font-size: clamp(23px, 2.8vw, 31px);
-  letter-spacing: -0.045em;
-  line-height: 1.05;
-  margin: 3px 0 19px;
-  max-width: 390px;
-  color: #514c44;
-  transform: rotate(-0.5deg);
+}
+.hero-copy p.tagline {
+  font-family: Georgia, serif !important;
+  font-style: italic !important;
+  font-size: 27px !important;
+  color: #514c44 !important;
+  letter-spacing: -1px;
+  line-height: 1.2;
+  margin: 18px 0;
 }
 
 .hero-copy p.tagline span {
-  display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
-  letter-spacing: -0.07em;
-  text-transform: uppercase;
-  font-size: 0.82em;
+  font-size: 0.9em;
   color: #252421;
   border-bottom: 2px solid #d9b0b5;
-  padding: 0 2px 2px;
-  transform: rotate(-1deg);
-}
+  padding-bottom: 2px;
 }
